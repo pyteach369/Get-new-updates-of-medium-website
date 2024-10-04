@@ -1,0 +1,3 @@
+insecure direct object reference
+sql injection
+Cross-Site Scripting

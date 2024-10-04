@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+certifi==2024.8.30
+charset-normalizer==3.3.2
+colorama==0.4.6
+googlesearch-python @ file:///C:/Users/javad/Desktop/updates/googlesearch_python-1.2.5-py3-none-any.whl#sha256=28ef8ad737951b96ebe8963fbeb9bd2b45cae5c2533df1cc7cb8e72129a785f9
+idna==3.10
+numpy==2.1.1
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+requests==2.32.3
+six==1.16.0
+soupsieve==2.6
+tzdata==2024.2
+urllib3==2.2.3
